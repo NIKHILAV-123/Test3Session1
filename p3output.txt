@@ -1,1 +1,10 @@
+gcc -g p3original.c
+ ./a.out
+Enter a number n
+4
+Enter a number r
+2
+Value of 4C2 = 6
+ 
+
 

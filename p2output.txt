@@ -1,1 +1,12 @@
+gcc -g p2original.c
+ ./a.out
+Enter the first fraction:
+2 5
+Enter the first fraction:
+4 5
+Enter the first fraction:
+3 5
+The largest of three fractions: 2/5 4/5 3/5 is 
+ 2/5
+ 
 
