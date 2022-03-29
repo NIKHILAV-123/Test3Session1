@@ -1,1 +1,13 @@
+gcc -g p7original.c
+ ./a.out
+Enter the fraction:
+3 5
+Enter the fraction:
+4 7
+The sum of two fractions:
+3/5
+4/7
+ is 41/35
+ 
+
 

@@ -1,1 +1,15 @@
+gcc -g p8original.c
+ ./a.out
+Enter the number of fractions:
+3
+Enter the fraction:
+3 7
+Enter the fraction:
+2 5
+Enter the fraction:
+7 4
+The sum of 3 fractions:
+3/7 + 2/5 + 7/4 is 361/140
+ 
+
 

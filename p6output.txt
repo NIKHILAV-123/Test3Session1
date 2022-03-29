@@ -1,1 +1,13 @@
+gcc -g p6original.c
+ ./a.out
+Enter the string:
+hello world hello
+The number of words is 3
+ 
+
+
+
+
+
+
 
